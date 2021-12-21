@@ -23,4 +23,7 @@ namespace WebApplication
                     webBuilder.UseStartup<Startup>();
                 });
     }
+    public class SharedRecource
+    {
+    }
 }
